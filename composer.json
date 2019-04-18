@@ -1,5 +1,5 @@
 {
-    "name": "andrej/woocommerce-subscriptions",
+    "name": "adorum/woocommerce-subscriptions",
     "type": "wordpress-plugin",
     "keywords": ["wordpress", "plugin"],
     "homepage": "https://github.com/adorum/woocommerce-subscriptions",
